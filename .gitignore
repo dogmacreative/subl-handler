@@ -4,3 +4,4 @@ build/*
 *.xcodeproj/TemplateIcon.icns
 subl-handler.xcodeproj/project.xcworkspace/
 subl-handler.xcodeproj/xcuserdata/
+.DS_Store
